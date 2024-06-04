@@ -1,0 +1,53 @@
+#galeria{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    margin: 50px;
+    text-align: start;
+}
+.img{
+    width: 350px;
+    margin: 0 10px;
+    padding: 10px;
+}
+#fotos{
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+  margin: 50px;
+
+  
+
+
+}
+
+header{
+    position: sticky;
+    top: 0;
+    background-color: aliceblue;
+    padding-bottom: 10px;
+  }
+  
+  #menu{
+   display: flex;
+    justify-content: center;
+    margin: 10px;
+  position: sticky;
+  
+  }
+  
+  #menu li{
+    list-style: none;
+  
+  }
+  
+  #menu li a{
+    text-decoration: none;
+    padding: 5px;
+    color: black;
+  
+  }
+  h1{
+    text-align: center;
+  }
+
